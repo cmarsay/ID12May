@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 44010f0c95a9348428d7e1426a9d6cc5
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 0
+      firstFrame: -61
+      lastFrame: 185
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group14
+        weight: 1
+      - path: group14/group15
+        weight: 1
+      - path: group14/group15/group16
+        weight: 1
+      - path: group14/group15/group16/people5:pasted__pasted__pCube2
+        weight: 1
+      - path: group14/group15/group16/people5:pasted__pasted__pCube2/people5:transform10
+        weight: 1
+      - path: group14/group15/group16/people5:pasted__pasted__pSphere2
+        weight: 1
+      - path: group14/group15/group16/people5:pasted__pasted__pSphere2/people5:transform8
+        weight: 1
+      - path: group14/group15/group16/people5:pasted__pCube1
+        weight: 1
+      - path: group14/group15/group16/people5:pasted__pCube1/people5:transform11
+        weight: 1
+      - path: group14/group15/group16/people5:pasted__pCube2
+        weight: 1
+      - path: group14/group15/group16/people5:pasted__pCube2/people5:transform9
+        weight: 1
+      - path: group14/group15/group16/people5:pasted__pSphere1
+        weight: 1
+      - path: group14/group15/group16/people5:pasted__pSphere1/people5:transform7
+        weight: 1
+      - path: group14/group15/group16/people5:pasted__pSphere2
+        weight: 1
+      - path: group14/group15/group16/people5:pasted__pSphere2/people5:transform6
+        weight: 1
+      - path: group14/group15/group16/people5:pCylinder3
+        weight: 1
+      - path: group14/group15/group16/people5:pCylinder3/people5:transform5
+        weight: 1
+      - path: group17
+        weight: 1
+      - path: group17/group18
+        weight: 1
+      - path: group17/group18/pasted__pasted__pCube2
+        weight: 1
+      - path: group17/group18/pasted__pasted__pCube2/transform65
+        weight: 1
+      - path: group17/group18/pasted__pasted__pSphere2
+        weight: 1
+      - path: group17/group18/pasted__pasted__pSphere2/transform63
+        weight: 1
+      - path: group17/group18/pasted__pCube1
+        weight: 1
+      - path: group17/group18/pasted__pCube1/transform66
+        weight: 1
+      - path: group17/group18/pasted__pCube2
+        weight: 1
+      - path: group17/group18/pasted__pCube2/transform64
+        weight: 1
+      - path: group17/group18/pasted__pSphere1
+        weight: 1
+      - path: group17/group18/pasted__pSphere1/transform67
+        weight: 1
+      - path: group17/group18/pasted__pSphere2
+        weight: 1
+      - path: group17/group18/pasted__pSphere2/transform68
+        weight: 1
+      - path: group17/group18/pCylinder3
+        weight: 1
+      - path: group17/group18/pCylinder3/transform69
+        weight: 1
+      - path: group18_pCylinder3
+        weight: 1
+      - path: group19
+        weight: 1
+      - path: group19/pasted__pasted__pCube2
+        weight: 1
+      - path: group19/pasted__pasted__pCube2/transform72
+        weight: 1
+      - path: group19/pasted__pasted__pSphere2
+        weight: 1
+      - path: group19/pasted__pasted__pSphere2/transform70
+        weight: 1
+      - path: group19/pasted__pCube1
+        weight: 1
+      - path: group19/pasted__pCube1/transform73
+        weight: 1
+      - path: group19/pasted__pCube2
+        weight: 1
+      - path: group19/pasted__pCube2/transform71
+        weight: 1
+      - path: group19/pasted__pSphere1
+        weight: 1
+      - path: group19/pasted__pSphere1/transform74
+        weight: 1
+      - path: group19/pasted__pSphere2
+        weight: 1
+      - path: group19/pasted__pSphere2/transform75
+        weight: 1
+      - path: group19/pCylinder3
+        weight: 1
+      - path: group19/pCylinder3/transform76
+        weight: 1
+      - path: group19_pCylinder3
+        weight: 1
+      - path: group20
+        weight: 1
+      - path: group20/group21
+        weight: 1
+      - path: group20/group21/pasted__pasted__pCube2
+        weight: 1
+      - path: group20/group21/pasted__pasted__pCube2/transform97
+        weight: 1
+      - path: group20/group21/pasted__pasted__pSphere2
+        weight: 1
+      - path: group20/group21/pasted__pasted__pSphere2/transform94
+        weight: 1
+      - path: group20/group21/pasted__pCube1
+        weight: 1
+      - path: group20/group21/pasted__pCube1/transform95
+        weight: 1
+      - path: group20/group21/pasted__pCube2
+        weight: 1
+      - path: group20/group21/pasted__pCube2/transform96
+        weight: 1
+      - path: group20/group21/pasted__pSphere1
+        weight: 1
+      - path: group20/group21/pasted__pSphere1/transform93
+        weight: 1
+      - path: group20/group21/pasted__pSphere2
+        weight: 1
+      - path: group20/group21/pasted__pSphere2/transform92
+        weight: 1
+      - path: group20/group21/pCylinder3
+        weight: 1
+      - path: group20/group21/pCylinder3/transform91
+        weight: 1
+      - path: group21_pasted__pasted__pCube2
+        weight: 1
+      - path: group22
+        weight: 1
+      - path: group22/pasted__pasted__pCube2
+        weight: 1
+      - path: group22/pasted__pasted__pCube2/transform104
+        weight: 1
+      - path: group22/pasted__pasted__pSphere2
+        weight: 1
+      - path: group22/pasted__pasted__pSphere2/transform101
+        weight: 1
+      - path: group22/pasted__pCube1
+        weight: 1
+      - path: group22/pasted__pCube1/transform102
+        weight: 1
+      - path: group22/pasted__pCube2
+        weight: 1
+      - path: group22/pasted__pCube2/transform103
+        weight: 1
+      - path: group22/pasted__pSphere1
+        weight: 1
+      - path: group22/pasted__pSphere1/transform100
+        weight: 1
+      - path: group22/pasted__pSphere2
+        weight: 1
+      - path: group22/pasted__pSphere2/transform99
+        weight: 1
+      - path: group22/pCylinder3
+        weight: 1
+      - path: group22/pCylinder3/transform98
+        weight: 1
+      - path: group22_pasted__pasted__pCube2
+        weight: 1
+      - path: group23
+        weight: 1
+      - path: group23/pasted__pasted__pCube2
+        weight: 1
+      - path: group23/pasted__pasted__pCube2/transform89
+        weight: 1
+      - path: group23/pasted__pasted__pSphere2
+        weight: 1
+      - path: group23/pasted__pasted__pSphere2/transform87
+        weight: 1
+      - path: group23/pasted__pCube1
+        weight: 1
+      - path: group23/pasted__pCube1/transform88
+        weight: 1
+      - path: group23/pasted__pCube2
+        weight: 1
+      - path: group23/pasted__pCube2/transform90
+        weight: 1
+      - path: group23/pasted__pSphere1
+        weight: 1
+      - path: group23/pasted__pSphere1/transform84
+        weight: 1
+      - path: group23/pasted__pSphere2
+        weight: 1
+      - path: group23/pasted__pSphere2/transform86
+        weight: 1
+      - path: group23/pCylinder3
+        weight: 1
+      - path: group23/pCylinder3/transform85
+        weight: 1
+      - path: group23_pasted__pCube2
+        weight: 1
+      - path: group24
+        weight: 1
+      - path: group24/pasted__pasted__pCube2
+        weight: 1
+      - path: group24/pasted__pasted__pCube2/transform82
+        weight: 1
+      - path: group24/pasted__pasted__pSphere2
+        weight: 1
+      - path: group24/pasted__pasted__pSphere2/transform80
+        weight: 1
+      - path: group24/pasted__pCube1
+        weight: 1
+      - path: group24/pasted__pCube1/transform83
+        weight: 1
+      - path: group24/pasted__pCube2
+        weight: 1
+      - path: group24/pasted__pCube2/transform81
+        weight: 1
+      - path: group24/pasted__pSphere1
+        weight: 1
+      - path: group24/pasted__pSphere1/transform79
+        weight: 1
+      - path: group24/pasted__pSphere2
+        weight: 1
+      - path: group24/pasted__pSphere2/transform78
+        weight: 1
+      - path: group24/pCylinder3
+        weight: 1
+      - path: group24/pCylinder3/transform77
+        weight: 1
+      - path: group24_pasted__pCube1
+        weight: 1
+      - path: people5:pasted__pCube1
+        weight: 1
+      - path: people5:pCube3
+        weight: 1
+      - path: people5:pCube3/people5:transform1
+        weight: 1
+      - path: people5:pCylinder2
+        weight: 1
+      - path: people5:pCylinder2/people5:transform2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
