@@ -15,6 +15,7 @@ public class PhysicsButton : MonoBehaviour
     static bool button1;
     static bool button2;
 
+
     public UnityEvent onPressed, onReleased;
     // Start is called before the first frame update
     void Start()
@@ -47,6 +48,7 @@ public class PhysicsButton : MonoBehaviour
         _isPressed = true;
         onPressed.Invoke();
         Debug.Log("Pressed");
+
     }
 
     private void Released()
